@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm mbesagil (Mesut Beşağıl). I'm Mechatronic Engineer. JS is my best language..
+I'm mbesagil (Mesut Beşağıl). I'm Mechatronic Engineer. Full Stack Developer with a strong background in Vue.js for frontend and Node.js for backend development. I also have experience working on IoT projects. You can find my creative and innovative projects on my GitHub profile. JS is my best language..
 
 
 <p align="center">
