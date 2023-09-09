@@ -14,4 +14,6 @@ I'm mbesagil (Mesut Beşağıl). I'm Mechatronic Engineer. JS is my best languag
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
